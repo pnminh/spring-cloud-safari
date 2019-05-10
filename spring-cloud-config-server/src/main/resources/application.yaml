@@ -1,10 +1,10 @@
 spring:
-  profiles:
-    active: native
   cloud:
     config:
       server:
-        native:
-          searchLocations: classpath:configs/
+        git:
+          uri: file:/home/mpham/workspace/intellij/spring-cloud-safari
+          search-paths:
+            - configs
 server:
   port: 9090

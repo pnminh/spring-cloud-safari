@@ -3,7 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/configs/config-client-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-config-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/example/demo/DemoApplication.java">
           <value>
             <set />
           </value>
@@ -14,6 +29,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/configs/configs.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-config-server/target/classes/application.properties">
           <value>
             <set />
           </value>

@@ -1,6 +1,10 @@
 spring:
+  profiles:
+    active: native
   cloud:
     config:
       server:
-        git:
-          /home
+        native:
+          searchLocations: classpath:configs/
+server:
+  port: 9090

@@ -23,6 +23,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-config-client/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-config-client/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-config-client/src/main/resources/bootstrap.properties">
           <value>
             <set />
@@ -49,6 +59,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/bootstrap.properties">
           <value>
             <set />
           </value>

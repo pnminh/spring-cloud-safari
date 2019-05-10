@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client-2/spring-cloud-eureka-client-2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client-2/spring-cloud-eureka-client-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-consumer/spring-cloud-hystrix-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-consumer/spring-cloud-hystrix-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-rest/spring-cloud-rest.iml" filepath="$PROJECT_DIR$/spring-cloud-rest/spring-cloud-rest.iml" />
     </modules>
   </component>
 </project>

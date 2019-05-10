@@ -1,0 +1,9 @@
+server:
+  port: 7001
+#enable all actuator endpoints
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - "*"

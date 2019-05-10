@@ -11,7 +11,7 @@
 	<groupId>com.minh.spring-cloud</groupId>
 	<artifactId>spring-cloud-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>spring-cloud-rest</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

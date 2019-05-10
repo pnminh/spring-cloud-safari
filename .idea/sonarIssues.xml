@@ -98,6 +98,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-eureka-client/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-eureka-client/src/main/resources/application.yaml">
           <value>
             <set />
@@ -109,6 +114,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-eureka-server/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-hystrix-consumer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-hystrix-consumer/src/main/java/com/example/demo/SpringCloudHystrixConsumerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-hystrix-consumer/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-rest/src/main/java/com/example/demo/SpringCloudRestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-rest/src/main/resources/application.yaml">
           <value>
             <set />
           </value>

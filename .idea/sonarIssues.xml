@@ -18,6 +18,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-auth-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-auth-server/src/main/java/com/example/demo/AuthServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-auth-server/src/main/java/com/example/demo/SpringCloudAuthServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-auth-server/src/main/java/com/example/demo/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-auth-server/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-config-client/pom.xml">
           <value>
             <set />

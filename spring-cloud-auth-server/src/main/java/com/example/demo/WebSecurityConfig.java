@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
@@ -24,8 +23,13 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         UserDetails user = User.withUsername("user1")
                 .password(passwordEncoder.encode("password1"))
                 .roles("USER").build();
+        UserDetails admin = User.withUsername("admin")
+                .password(passwordEncoder.encode("password1"))
+                .roles("ADMIN").build();
+
         InMemoryUserDetailsManager manager = new InMemoryUserDetailsManager();
         manager.createUser(user);
+        manager.createUser(admin);
         return manager;
     }
 

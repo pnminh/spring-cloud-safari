@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-consumer/spring-cloud-hystrix-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-consumer/spring-cloud-hystrix-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-rest/spring-cloud-rest.iml" filepath="$PROJECT_DIR$/spring-cloud-rest/spring-cloud-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon-rest-server/spring-cloud-ribbon-rest-server.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon-rest-server/spring-cloud-ribbon-rest-server.iml" />
     </modules>
   </component>
 </project>

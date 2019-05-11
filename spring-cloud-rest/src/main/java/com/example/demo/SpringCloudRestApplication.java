@@ -12,9 +12,22 @@ public class SpringCloudRestApplication {
     @Value("${spring.application.name}")
     private String appName;
 
+    @Value("${server.port}")
+    private String port;
+
     @GetMapping("/hello")
     public String sayHello() {
         return "hello from " + appName;
+    }
+
+    @GetMapping("/")
+    public String getStatus() {
+        return "good";
+    }
+
+    @GetMapping("/port")
+    public String getPort() {
+        return port;
     }
 
     public static void main(String[] args) {

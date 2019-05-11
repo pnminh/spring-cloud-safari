@@ -10,6 +10,7 @@
         <module name="spring-cloud-config-client" />
         <module name="spring-cloud-rest" />
         <module name="spring-cloud-hystrix-consumer" />
+        <module name="spring-cloud-ribbon-rest-server" />
         <module name="spring-cloud-config-server" />
         <module name="spring-cloud-eureka-client-2" />
         <module name="spring-cloud-eureka-server" />
@@ -24,6 +25,7 @@
       <module name="spring-cloud-eureka-server" target="1.8" />
       <module name="spring-cloud-hystrix-consumer" target="1.8" />
       <module name="spring-cloud-rest" target="1.8" />
+      <module name="spring-cloud-ribbon-rest-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,6 +37,7 @@
       <module name="spring-cloud-eureka-server" options="-parameters" />
       <module name="spring-cloud-hystrix-consumer" options="-parameters" />
       <module name="spring-cloud-rest" options="-parameters" />
+      <module name="spring-cloud-ribbon-rest-server" options="-parameters" />
     </option>
   </component>
 </project>

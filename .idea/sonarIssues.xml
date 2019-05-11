@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/configs/config-client-dev.properties">
           <value>
             <set />
@@ -139,6 +144,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-rest/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-ribbon-rest-server/src/main/java/com/example/demo/SpringCloudRibbonRestServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-ribbon-rest-server/src/main/resources/application.properties">
           <value>
             <set />
           </value>

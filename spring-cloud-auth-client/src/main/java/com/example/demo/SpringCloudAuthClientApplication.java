@@ -55,7 +55,6 @@ public class SpringCloudAuthClientApplication {
     @GetMapping("/protectedResource")
     public String protectedResource(Principal principal) throws URISyntaxException {
         User user = (User) ((Authentication) principal).getPrincipal();
-        user = (User)SecurityContextHolder.getContext().getAuthentication().getPrincipal();
         //add user/pass to accesstoken request for password grant
         AccessTokenRequest accessTokenRequest = this.oAuth2RestTemplate.getOAuth2ClientContext().getAccessTokenRequest();
         accessTokenRequest.set("username", user.getUsername());

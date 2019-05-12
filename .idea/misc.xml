@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-ribbon-rest-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-auth-client/pom.xml" />
       </list>
     </option>
   </component>

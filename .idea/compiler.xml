@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-auth-client" />
         <module name="spring-cloud-auth-server" />
         <module name="spring-cloud-rest" />
         <module name="spring-cloud-hystrix-consumer" />
@@ -20,6 +21,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-cloud-auth-client" target="1.8" />
       <module name="spring-cloud-auth-server" target="1.8" />
       <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
@@ -34,6 +36,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cloud-auth-client" options="-parameters" />
       <module name="spring-cloud-auth-server" options="-parameters" />
       <module name="spring-cloud-config-client" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />

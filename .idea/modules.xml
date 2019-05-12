@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client-2/spring-cloud-eureka-client-2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client-2/spring-cloud-eureka-client-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-consumer/spring-cloud-hystrix-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-consumer/spring-cloud-hystrix-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-resource-server/spring-cloud-resource-server.iml" filepath="$PROJECT_DIR$/spring-cloud-resource-server/spring-cloud-resource-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-rest/spring-cloud-rest.iml" filepath="$PROJECT_DIR$/spring-cloud-rest/spring-cloud-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon-rest-server/spring-cloud-ribbon-rest-server.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon-rest-server/spring-cloud-ribbon-rest-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" />

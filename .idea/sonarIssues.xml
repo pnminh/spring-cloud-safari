@@ -188,6 +188,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-resource-server/src/main/java/com/example/demo/SpringCloudResourceServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-resource-server/src/main/java/com/example/demo/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-cloud-resource-server/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-cloud-rest/src/main/java/com/example/demo/SpringCloudRestApplication.java">
           <value>
             <set />

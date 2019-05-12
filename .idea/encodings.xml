@@ -9,6 +9,7 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-client-2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-resource-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon-rest-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />

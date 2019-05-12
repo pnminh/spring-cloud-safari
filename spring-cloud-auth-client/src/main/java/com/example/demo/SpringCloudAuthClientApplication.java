@@ -59,7 +59,7 @@ public class SpringCloudAuthClientApplication {
         AccessTokenRequest accessTokenRequest = this.oAuth2RestTemplate.getOAuth2ClientContext().getAccessTokenRequest();
         accessTokenRequest.set("username", user.getUsername());
         accessTokenRequest.set("password", user.getPassword());
-        return oAuth2RestTemplate.getForObject("http://localhost:3030/admin", String.class);
+        return oAuth2RestTemplate.getForObject("http://localhost:3031/admin", String.class);
     }
 
     @Bean("oAuth2RestTemplate")
